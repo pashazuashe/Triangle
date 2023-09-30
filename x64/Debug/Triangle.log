@@ -1,0 +1,3 @@
+﻿  Triangle.cpp
+C:\Users\ancap\Documents\гумрф\IV курс\Инструментальные средства ИС\0,2\Triangle\Triangle\Triangle.cpp(93,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Triangle.vcxproj -> C:\Users\ancap\Documents\гумрф\IV курс\Инструментальные средства ИС\0,2\Triangle\x64\Debug\Triangle.exe
